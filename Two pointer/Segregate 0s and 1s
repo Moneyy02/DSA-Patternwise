@@ -1,3 +1,5 @@
+link : https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1
+
 Given an array arr[] consisting of only 0's and 1's. Modify the array in-place to segregate 0s onto the left side and 1s onto the right side of the array.
 
 Examples :
